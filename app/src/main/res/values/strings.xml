@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fragment Contact App</string>
+    <string name="new_contact">New Contact</string>
+</resources>
